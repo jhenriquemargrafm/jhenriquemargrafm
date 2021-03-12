@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jhenriquemargraf
+- 👀 I’m interested in Languages, Sports and Cinema.
+- 🌱 I’m currently learning how to code and to become a web dev.
