@@ -18,7 +18,7 @@
 ## About Me
 
 - I am learning Pyhton and playing a bit with R.
-- I work also as a translator/reviewer and sports trader.
+- I work also as a translator/reviewer :brazil: :de: :us: and sports trader.
 - My hobbies are reading, sports in general and movies. 
 - Always eager to learn and evolve. Trust the process!
 - You can find me at **jh.margraf@gmail.com**
