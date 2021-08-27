@@ -3,6 +3,8 @@
 - I’m currently studying at Trybe to become a Software Engineer. I am doing a transition career from Industrial Engineer to Data Science and Machine Learning.
 - I am learning MySQL and Python at the moment.
 
+<img src="/1615339030142.jpeg" width="fit">
+
 ## Find me
 <a href="https://www.linkedin.com/in/jhenriquemargrafm/" target="_blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
