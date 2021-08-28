@@ -20,6 +20,7 @@
 ## About Me
 
 - I am learning Pyhton and playing a bit with R.
+- I have a solid knowledge in Javascript and React.
 - I also work as a translator/reviewer :brazil: :de: :us: and sports trader (:dog: :soccer:)
 - My hobbies are reading, sports in general and movies. 
 - Always eager to learn and evolve. Trust the process!
