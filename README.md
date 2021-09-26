@@ -1,6 +1,6 @@
 ### Hi, I’m @jhenriquemargraf. Welcome to my profile!
 - My name is José Henrique Margraf Melo and I am from Brazil :brazil:
-- I’m currently studying at Trybe to become a Software Engineering. I am doing a transition career from Industrial Engineer to Data Science and Machine Learning.
+- I’m currently studying at Trybe to become a Software Engineer. I am doing a transition career from Industrial Engineer to Data Science and Machine Learning.
 - I am learning MySQL and Python at the moment.
 
 <img src="/1615339030142.jpeg" width="fit">
