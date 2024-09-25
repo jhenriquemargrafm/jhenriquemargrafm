@@ -1,9 +1,8 @@
 ### Hi, I’m @jhenriquemargraf. Welcome to my profile!
 - My name is José Henrique Margraf Melo and I am from Brazil :brazil:
-- I’m currently studying at Trybe to become a Software Engineer. I am doing a transition career from Industrial Engineer to Data Science and Machine Learning.
-- I am learning MySQL and Python at the moment.
+- I’m currently working as a Software Engineer.
 
-<img src="/1615339030142.jpeg" width="fit">
+<img src="/cover.png" width="fit">
 
 ## Find me
 <a href="https://www.linkedin.com/in/jhenriquemargrafm/" target="_blank">
@@ -19,10 +18,7 @@
 
 ## About Me
 
-- I am learning Pyhton and playing a bit with R.
-- I have a solid knowledge in Javascript and React.
-- I also work as a translator/reviewer :brazil: :de: :us: and sports trader (:dog: :soccer:)
-- My hobbies are reading, sports in general and movies. 
+- I have a solid knowledge in C# and SQL.
 - Always eager to learn and evolve. Trust the process!
 - You can find me at **jh.margraf@gmail.com**
 - More informations at https://www.linkedin.com/in/jhenriquemargrafm/
