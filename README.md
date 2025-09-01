@@ -1,6 +1,6 @@
 ### Hi, I’m @jhenriquemargraf. Welcome to my profile!
 - My name is José Henrique Margraf Melo and I am from Brazil :brazil:
-- I’m currently working as a Software Engineer.
+- I’m currently working as a Software Engineer at Evertis.
 
 <img src="/cover.png" width="fit">
 
@@ -13,11 +13,11 @@
 </a> 
 <br />
 <br />
+
 ## About Me
 - Always eager to learn and evolve. Trust the process!
 - You can find me at **jh.margraf@gmail.com**
 - More informations at https://www.linkedin.com/in/jhenriquemargrafm/
-
 <br />
 <br />
 
