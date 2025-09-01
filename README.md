@@ -8,16 +8,11 @@
 <a href="https://www.linkedin.com/in/jhenriquemargrafm/" target="_blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
-<a>
-</a>
 <a href="https://github.com/jhenriquemargrafm" target="_blank">
   <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a> 
-</a>
-
 <br />
 <br />
-
 ## About Me
 - Always eager to learn and evolve. Trust the process!
 - You can find me at **jh.margraf@gmail.com**
